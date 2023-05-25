@@ -1,0 +1,196 @@
+.advf {
+    margin: 10px;
+}
+.qy {
+    margin: 5px;
+}
+.modal-backdrop {
+    /* display: none;     */
+    z-index: 1040;
+}
+.offcanvas-header {
+    background-color: #212529;
+}
+.headerbox {
+    background-color: #212529;
+}
+.t {
+    text-align: center;
+    color: white;
+}
+.button-update-all {
+    margin: 10px; 
+}
+.rf {
+    font-weight: 700;
+}
+.p-button.p-button-text {
+    color: #3B82F6;
+}
+.p-button {
+    background-color: #3B82F6;
+    border: #3B82F6;
+}
+.container {
+    max-width: 820px;
+    margin: 0px auto;
+    margin-top: 20px;
+}
+.comment {
+    float: left;
+    width: 100%;
+    height: auto;
+}
+.commenter {
+    float: left;
+}
+.commenter img {
+    width: 35px;
+    height: 35px;
+}
+.comment-text-area {
+    float: left;
+    width: 100%;
+    height: auto;
+}
+.textinput {
+    float: left;
+    width: 100%;
+    min-height: 230px;
+    outline: none;
+    resize: none;
+    border: 1px solid grey;
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+.btu {
+    margin-bottom: .4rem;
+}
+.br {
+    margin-right: .9rem;
+}
+.bl {
+    margin-left: 10px;
+}
+.bri {
+    margin-right: 20px;
+}
+.dt {
+    margin: 3px;
+    margin-left: 5px;
+}
+.top {
+    margin-top: 20px;
+}
+.bottom {
+    margin-bottom: 20px;
+}
+.bottom2 {
+    margin-bottom: 10px;
+}
+.dbal {
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+.top2 {
+    margin-top: 10px;
+}
+.top1 {
+    margin-top: -7px;
+}
+.red {
+    color: #C63737
+}
+.green {
+    color: #256029
+}
+.bleft {
+    left: 10px;
+}
+.rbleft {
+    left: 20px;
+}
+
+
+
+
+
+
+.toast-demo button {
+    min-width: 10rem;
+    margin-right: .5rem;
+}
+
+@media screen and (max-width: 960px) {
+    .toast-demo button {
+        width: 100%;
+        margin-bottom: .5rem;
+    }
+}
+
+.datatable-filter-real .p-datatable .p-datatable-header {
+    background-color: #212529;
+}
+
+.datatable-filter-real .p-datatable .p-datatable-thead > tr > th {
+    
+}
+
+.datatable-filter-real .p-datatable .p-datatable-tbody td {
+    background-color: rgb(255, 255, 255);
+}
+
+.datatable-filter-real .p-button-outlined {
+    color: rgb(255, 255, 255);
+}
+
+.customer-badge {
+    border-radius: 2px;
+    padding: .25em .5rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: .3px;
+}
+
+.customer-badge.status-available {
+    background-color: #C8E6C9;
+    color: #256029;
+}
+
+.customer-badge.status-unavailable {
+    background-color: #FFCDD2;
+    color: #C63737;
+}
+
+/* .customer-badge.status-off {
+    background-color: #B3E5FC;
+    color: #23547B;
+} */
+
+.p-column-filter-menu-button {
+    display: none;
+}
+.p-column-filter-row {
+    width: 100%;
+}
+.p-column-filter-clear-button {
+    display: none;
+}
+
+.p-checkbox {
+    margin-left: 30px;
+}
